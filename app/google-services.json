@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:935499336341:android:533633e8e09c7f36f0a99c",
         "android_client_info": {
-          "package_name": "com.Penultimate.FirebaseAuth"
+          "package_name": "com.example.firebaseauth"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "935499336341-140ea82uqfi1n31qogrtpit2m1s66mm6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.Penultimate.FirebaseAuth",
+            "package_name": "com.example.firebaseauth",
             "certificate_hash": "d7ffeffb148e75a70c245ccfd13da4e39e98a2d0"
           }
         },
